@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": "15970",
+    "product_name": "Turtle Check Men Navy Blue Shirt",
+    "price": 49.99,
+    "category": "Shirts",
+    "listing": {
+      "title": "Navy Blue Turtle Check Men's Shirt",
+      "description": "Elevate your casual wardrobe with our Navy Blue Turtle Check Men’s Shirt. Designed for comfort and style, this shirt features a classic check pattern that effortlessly combines sophistication with laid-back charm. The short sleeves make it perfect for warmer days, while the navy blue color adds a touch of elegance. Ideal for both day and evening wear, this versatile shirt pairs beautifully with jeans or chinos. Wear it to brunch, casual outings, or gatherings, and make a statement wherever you go. Available now for just $49.99.",
+      "features": [
+        "Classic navy blue check pattern",
+        "Short sleeves for breathable comfort",
+        "Versatile styling options",
+        "Perfect for casual or semi-formal occasions",
+        "Easy to pair with various bottom wear",
+        "Durable construction for long-lasting wear",
+        "Fresh, modern fit"
+      ],
+      "keywords": "men's shirt, navy blue shirt, casual shirt, check pattern shirt, stylish men's clothing, short sleeve shirt, versatile shirt, summer fashion, men's wear, turtle check shirt"
+    }
+  },
+  {
+    "product_id": "39386",
+    "product_name": "Peter England Men Party Blue Jeans",
+    "price": 49.99,
+    "category": "Jeans",
+    "listing": {
+      "title": "Peter England Men's Party Blue Jeans",
+      "description": "Step out in style with the Peter England Men Party Blue Jeans, a perfect blend of comfort and trend. These jeans are designed for the modern man who values both fashion and functionality. The striking blue color makes them versatile for various occasions, from casual gatherings to more formal affairs. With a streamlined fit that flatters the physique, these jeans maintain a relaxed yet polished look. Pair them effortlessly with a smart shirt for a night out or a casual tee for a laid-back weekend. The thoughtful design includes classic pockets and a zip fly, ensuring practicality without compromising on style. Elevate your denim collection with these standout jeans that promise durability and style.",
+      "features": [
+        "Vibrant blue color for versatility",
+        "Stylish slim-fit design",
+        "Classic five-pocket styling",
+        "Comfortable fabric for all-day wear",
+        "Easy to pair with various outfits",
+        "Durable construction for long-lasting use",
+        "Ideal for both casual and semi-formal events"
+      ],
+      "keywords": "Peter England jeans, men's blue jeans, party jeans, stylish denim, men's fashion, casual wear, slim fit jeans, durable jeans, trendy jeans, versatile denim"
+    }
+  },
+  {
+    "product_id": "59263",
+    "product_name": "Titan Women Silver Watch",
+    "price": 49.99,
+    "category": "Watches",
+    "listing": {
+      "title": "Titan Women's Silver Watch - Elegant & Timeless",
+      "description": "Introducing the Titan Women Silver Watch, a stunning blend of elegance and sophistication designed for the modern woman. This exquisite timepiece features a sleek silver tone that complements any outfit, making it perfect for both casual and formal occasions. The minimalist dial is complemented by delicate hour and minute hands, ensuring you always stay on time in style. Its lightweight design and adjustable strap provide maximum comfort, allowing you to wear it throughout the day with ease. Whether you're at the office or attending a special event, this watch will elevate your style and keep you punctual. Embrace the perfect combination of functionality and fashion with Titan's Silver Watch.",
+      "features": [
+        "Sleek silver tone",
+        "Minimalist dial design",
+        "Adjustable strap for comfort",
+        "Lightweight and easy to wear",
+        "Water-resistant",
+        "Classic hour and minute hands",
+        "Perfect for any occasion"
+      ],
+      "keywords": "Titan Women's Watch, silver watch, elegant watch, women's accessories, stylish timepiece, minimalist design, adjustable strap, comfortable watch, fashion watch, versatile jewelry"
+    }
+  }
+]

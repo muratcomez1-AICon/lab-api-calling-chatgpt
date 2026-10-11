@@ -1,0 +1,22 @@
+# Lab Report: API Calling to ChatGPT
+
+## 1. Objective
+The objective of this lab was to build an automated product listing generator using the OpenAI API and Python.
+
+## 2. Implementation
+The application loads product data from a Hugging Face dataset, processes product images, and sends image and text inputs to an AI model. The model generates product titles, descriptions, features, and SEO keywords.
+
+## 3. API Integration
+The OpenAI Python library was used to send requests to the model and retrieve generated responses. The responses were parsed as JSON and saved to `generated_listings.json`.
+
+## 4. Error Handling
+The application uses exception handling to record failed product requests and continues processing the remaining products. Errors are saved in `errors.json`.
+
+## 5. Results
+The application successfully generated listings for three products: a shirt, jeans, and a watch. The generated listings include a title, description, features, and keywords.
+
+## 6. Limitations and Improvements
+Some product attributes may not be verifiable from images alone. Human review is necessary before publication. Future improvements include stronger output validation, API retry logic, and usage-cost monitoring.
+
+## 7. Conclusion
+This lab demonstrated how Python and an AI API can automate product content generation through dataset loading, image processing, prompt engineering, and structured JSON output.
